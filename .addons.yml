@@ -1,0 +1,11 @@
+---
+channel: stable
+addons:
+  firefly-iii:
+    repository: coostax/addon-firefly-iii
+    target: firefly-iii
+    image: ghcr.io/coostax/ha-addons/firefly-iii/{arch}
+  wallabag:
+    repository: coostax/addon-wallabag
+    target: wallabag-iii
+    image: ghcr.io/coostax/ha-addons/wallabag/{arch}
