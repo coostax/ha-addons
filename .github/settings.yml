@@ -2,7 +2,7 @@
 repository:
   description: "Collection of Home Assistant Add-Ons"
   homepage: https://github.com/coostax
-  topics: Homeassistant, add-ons 
+  topics: Homeassistant, add-ons, add-on repository
   private: false
   has_issues: true
   has_projects: false
