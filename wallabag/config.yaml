@@ -7,6 +7,7 @@ url: "https://github.com/coostax/addon-wallabag"
 webui: "[PROTO:ssl]://[HOST]:[PORT:80]"
 services:
   - mysql:want
+startup: "application"
 arch:
   - armv7
   - aarch64iva
