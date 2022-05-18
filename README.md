@@ -44,9 +44,9 @@ Firefly-III - A free and open source personal finance manager
 ![Supports armv7 Architecture][wallabag-armv7-shield]
 ![Supports i386 Architecture][wallabag-i386-shield]
 
-Firefly-III - A free and open source personal finance manager
+Wallabag - A web application that allows you to save web pages for later reading.
 
-[:books: Firefly-iii add-on documentation][wallabag-docs]
+[:books: Wallabag add-on documentation][wallabag-docs]
 
 ## License
 
