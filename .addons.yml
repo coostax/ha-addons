@@ -7,5 +7,5 @@ addons:
     image: ghcr.io/coostax/ha-addons/firefly-iii/{arch}
   wallabag:
     repository: coostax/addon-wallabag
-    target: wallabag-iii
+    target: wallabag
     image: ghcr.io/coostax/ha-addons/wallabag/{arch}
