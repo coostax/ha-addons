@@ -55,7 +55,7 @@ MIT License
 [commits]: https://github.com/coostax/addon-wallabag/commits/main
 [coostax]: https://github.com/coostax
 [contributors]: https://github.com/coostax/addon-wallabag/graphs/contributors
-[docs]: https://github.com/coostax/addon-wallabag/blob/master/wallabag/DOCS.md
+[docs]: https://github.com/coostax/addon-wallabag/blob/main/wallabag/DOCS.md
 [wallabag]: https://wallabag.org/
 [home-assistant]: https://home-assistant.io
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
