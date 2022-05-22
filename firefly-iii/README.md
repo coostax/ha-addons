@@ -44,7 +44,8 @@ Thank you for being involved! :heart_eyes:
 ## Authors & contributors
 
 The original setup of this repository was done by [Paul Sinclair][sinclairpaul].
-The repository was later forked by [Paulo Costa][coostax] after the initial author made its repo read-only.
+The repository was later forked by [Paulo Costa][coostax] after the initial
+author made its repo read-only.
 
 For a full list of past authors and contributors,
 check [the contributor's page][contributors].
@@ -78,18 +79,18 @@ SOFTWARE.
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/coostax/addon-firefly-iii.svg
-[commits]: https://github.com/coostax/addon-firefly-iii/commits/master
+[commits]: https://github.com/coostax/addon-firefly-iii/commits/main
 [coostax]: https://github.com/coostax
 [contributors]: https://github.com/coostax/addon-firefly-iii/graphs/contributors
-[docs]: https://github.com/coostax/addon-firefly-iii/blob/master/firefly-iii/DOCS.md
-[Firefly-III]: https://firefly-iii.org/
+[docs]: https://github.com/coostax/addon-firefly-iii/blob/main/firefly-iii/DOCS.md
+[firefly-iii]: https://firefly-iii.org/
 [home-assistant]: https://home-assistant.io
 [hassio-firefly]: https://github.com/coostax/addon-firefly-iii
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/coostax/addon-firefly-iii/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [license-shield]: https://img.shields.io/github/license/coostax/addon-firefly-iii.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [reddit]: https://reddit.com/r/homeassistant
 [releases-shield]: https://img.shields.io/github/release/coostax/addon-firefly-iii.svg
