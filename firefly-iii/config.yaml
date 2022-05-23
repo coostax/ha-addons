@@ -38,4 +38,5 @@ schema:
   app_url: str?
   trusted_proxy: str?
 init: false
+image: ghcr.io/coostax/ha-addons/firefly-iii/{arch}
 # watchdog: [PROTO:ssl]://[HOST]:[PORT:80]/health
