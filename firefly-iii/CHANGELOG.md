@@ -2,4 +2,4 @@
 
 ## ⬆️ Update Firefly version
 
-- update to Firefly 5.7.10
+- update to Firefly 5.7.14
