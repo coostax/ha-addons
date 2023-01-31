@@ -52,14 +52,14 @@ Wallabag - A web application that allows you to save web pages for later reading
 
 MIT License
 
-[addon-firefly-iii]: https://github.com/coostax/addon-firefly-iii/blob/v2.1.2/README.md
-[firefly-iii-version-shield]:  https://img.shields.io/badge/version-v2.1.2-blue.svg
+[addon-firefly-iii]: https://github.com/coostax/addon-firefly-iii/blob/v2.1.3/README.md
+[firefly-iii-version-shield]:  https://img.shields.io/badge/version-v2.1.3-blue.svg
 [firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[firefly-iii-docs]: https://github.com/coostax/addon-firefly-iii/blob/v2.1.2/firefly-iii/DOCS.md
+[firefly-iii-docs]: https://github.com/coostax/addon-firefly-iii/blob/v2.1.3/firefly-iii/DOCS.md
 
 [addon-wallabag]: https://github.com/coostax/addon-wallabag/blob/v0.2.2/README.md
 [wallabag-version-shield]:  https://img.shields.io/badge/version-v0.2.2-blue.svg
