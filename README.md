@@ -61,15 +61,15 @@ MIT License
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [firefly-iii-docs]: https://github.com/coostax/addon-firefly-iii/blob/v2.1.3/firefly-iii/DOCS.md
 
-[addon-wallabag]: https://github.com/coostax/addon-wallabag/blob/v0.2.2/README.md
-[wallabag-version-shield]:  https://img.shields.io/badge/version-v0.2.2-blue.svg
+[addon-wallabag]: https://github.com/coostax/addon-wallabag/blob/v0.2.3/README.md
+[wallabag-version-shield]:  https://img.shields.io/badge/version-v0.2.3-blue.svg
 [wallabag-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wallabag-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [wallabag-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [wallabag-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [wallabag-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[wallabag-docs]: https://github.com/coostax/addon-wallabag/blob/v0.2.2/wallabag/DOCS.md
+[wallabag-docs]: https://github.com/coostax/addon-wallabag/blob/v0.2.3/wallabag/DOCS.md
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [license-shield]: https://img.shields.io/github/license/coostax/ha-addons.svg
