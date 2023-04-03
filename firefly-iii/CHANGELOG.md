@@ -1,5 +1,5 @@
 # What’s changed
 
-## ⬆️ Update Firefly version
+## ⬆️ Update Firefly
 
-- update to Firefly 5.7.18
+- Update Firefly base image
