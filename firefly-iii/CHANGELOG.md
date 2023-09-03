@@ -1,5 +1,5 @@
 # What’s changed
 
-## ⬆️ Update Firefly
+## ⬆️ Update Firefly version
 
-- Update Firefly base image
+- Update to Firefly v6.0.0
