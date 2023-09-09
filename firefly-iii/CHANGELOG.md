@@ -2,4 +2,6 @@
 
 ## ⬆️ Update Firefly version
 
-- Update to Firefly v6.0.0
+- Fix finish scripts by removing s6-test
+- Update PHP to 8.2
+- Update base image to v7.0.1
