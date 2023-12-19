@@ -5,26 +5,9 @@ name: Repository Update
 on:
   repository_dispatch:
     types: ["update"]
-  workflow_dispatch:
 
 jobs:
-  publish:
-    name: Running updater for ${{ github.event.client_payload.addon }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: 🔂 Wait for other runs to complete
-        uses: softprops/turnstyle@master
-        with:
-          continue-after-seconds: 1200
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Set Git Identity
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions"
-      - name: 🚀 Run Repository Updater
-        uses: hassio-addons/repository-updater@v1
-        with:
-          addon: ${{ github.event.client_payload.addon }}
-          repository: ${{ github.repository }}
-          token: ${{ secrets.UPDATER_TOKEN }}
+  workflows:
+    uses: coostax/ghactions-workflows/.github/workflows/repository-updater.yaml@main
+    secrets:
+      UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
