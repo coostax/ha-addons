@@ -157,8 +157,6 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2019-2020 Paul Sinclair
-
 Copyright (c) 2020-2023 Paulo Costa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -192,6 +190,6 @@ SOFTWARE.
 [semver]: http://semver.org/spec/v2.0.0.htm
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v3.1.1-blue.svg
-[release]: https://github.com/coostax/addon-firefly-iii/tree/v3.1.1
+[release-shield]: https://img.shields.io/badge/version-v3.1.3-blue.svg
+[release]: https://github.com/coostax/addon-firefly-iii/tree/v3.1.3
 [screenshot]: https://github.com/hassio-addons/addon-firefly-iii/raw/main/images/screenshot.png
