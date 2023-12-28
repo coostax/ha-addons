@@ -85,6 +85,7 @@ SOFTWARE.
 
 [addon-firefly-iii]: https://github.com/coostax/addon-firefly-iii/tree/v3.1.3
 [addon-doc-firefly-iii]: https://github.com/coostax/addon-firefly-iii/blob/v3.1.3/README.md
+[firefly-iii-issue]: https://github.com/coostax/addon-firefly-iii/issues
 [firefly-iii-version-shield]: https://img.shields.io/badge/version-v3.1.3-blue.svg
 [firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
@@ -93,6 +94,7 @@ SOFTWARE.
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-wallabag]: https://github.com/coostax/addon-wallabag/tree/v0.2.3
 [addon-doc-wallabag]: https://github.com/coostax/addon-wallabag/blob/v0.2.3/README.md
+[wallabag-issue]: https://github.com/coostax/addon-wallabag/issues
 [wallabag-version-shield]: https://img.shields.io/badge/version-v0.2.3-blue.svg
 [wallabag-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wallabag-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
