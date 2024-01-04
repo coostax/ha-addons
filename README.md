@@ -92,10 +92,10 @@ SOFTWARE.
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-wallabag]: https://github.com/coostax/addon-wallabag/tree/v0.2.3
-[addon-doc-wallabag]: https://github.com/coostax/addon-wallabag/blob/v0.2.3/README.md
+[addon-wallabag]: https://github.com/coostax/addon-wallabag/tree/v0.2.4
+[addon-doc-wallabag]: https://github.com/coostax/addon-wallabag/blob/v0.2.4/README.md
 [wallabag-issue]: https://github.com/coostax/addon-wallabag/issues
-[wallabag-version-shield]: https://img.shields.io/badge/version-v0.2.3-blue.svg
+[wallabag-version-shield]: https://img.shields.io/badge/version-v0.2.4-blue.svg
 [wallabag-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wallabag-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [wallabag-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
