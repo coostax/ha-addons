@@ -2,7 +2,14 @@
 
 ## 🚀 Features
 
-- Update Wallabag to version 2.6.6 @coostax (#9)
-- Update base images to version 7.1.0 @coostax (#9)
+- Update Wallabag version @coostax (#13)
 
-**Full Changelog**: https://github.com/coostax/addon-wallabag/compare/v0.2.3...v0.2.4
+## 🐛 Bug Fixes
+
+- Fix check updates action @coostax (#11)
+
+## Other changes
+
+- Fix repository updater automations @coostax (#10)
+
+**Full Changelog**: https://github.com/coostax/addon-wallabag/compare/v0.2.4...v0.2.5
