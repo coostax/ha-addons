@@ -77,6 +77,6 @@ SOFTWARE.
 [wallabag]: https://wallabag.org/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v0.2.5-blue.svg
-[release]: https://github.com/coostax/addon-wallabag/tree/v0.2.5
+[release-shield]: https://img.shields.io/badge/version-v0.2.6-blue.svg
+[release]: https://github.com/coostax/addon-wallabag/tree/v0.2.6
 [releases]: https://github.com/coostax/addon-wallabag/releases
