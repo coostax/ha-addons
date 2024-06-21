@@ -1,7 +1,11 @@
 ## Changes
 
+## 🚀 Features
+
+- Update Firefly-iii version @coostax (#66)
+
 ## Other changes
 
-- Fix query params issue @coostax (#64)
+- Update maintenance status on README.md @coostax (#65)
 
-**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.7...v3.1.8
+**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.8...v3.1.9
