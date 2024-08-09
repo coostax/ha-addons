@@ -2,6 +2,6 @@
 
 ## 🚀 Features
 
-- Update Firefly-iii version @coostax (#67)
+- Update Firefly-iii version @coostax (#68)
 
-**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.9...v3.1.10
+**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.10...v3.1.11
