@@ -1,5 +1,5 @@
 name: Firefly III
-version: 3.1.15
+version: 3.1.16
 slug: firefly-iii
 description: A free and open source personal finance manager
 url: https://github.com/coostax/addon-firefly-iii
@@ -8,9 +8,7 @@ services:
 - mysql:want
 arch:
 - armv7
-- aarch64
 - amd64
-- i386
 hassio_api: true
 map:
 - ssl
