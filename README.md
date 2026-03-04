@@ -83,10 +83,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-[addon-firefly-iii]: https://github.com/coostax/addon-firefly-iii/tree/v3.1.30
-[addon-doc-firefly-iii]: https://github.com/coostax/addon-firefly-iii/blob/v3.1.30/README.md
+[addon-firefly-iii]: https://github.com/coostax/addon-firefly-iii/tree/v3.1.31
+[addon-doc-firefly-iii]: https://github.com/coostax/addon-firefly-iii/blob/v3.1.31/README.md
 [firefly-iii-issue]: https://github.com/coostax/addon-firefly-iii/issues
-[firefly-iii-version-shield]: https://img.shields.io/badge/version-v3.1.30-blue.svg
+[firefly-iii-version-shield]: https://img.shields.io/badge/version-v3.1.31-blue.svg
 [firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
