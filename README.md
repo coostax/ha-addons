@@ -87,7 +87,7 @@ SOFTWARE.
 [addon-doc-firefly-iii]: https://github.com/coostax/addon-firefly-iii/blob/v3.1.32/README.md
 [firefly-iii-issue]: https://github.com/coostax/addon-firefly-iii/issues
 [firefly-iii-version-shield]: https://img.shields.io/badge/version-v3.1.32-blue.svg
-[firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
+[firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
