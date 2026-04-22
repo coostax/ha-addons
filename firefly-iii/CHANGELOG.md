@@ -2,6 +2,7 @@
 
 ## 🚀 Features
 
-- Fix target hash noexist @coostax (#134)
+- Update Firefly-iii version @coostax (#136)
+- Update Firefly-iii version @coostax (#138)
 
-**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.32...v3.1.33
+**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.33...v3.1.34
