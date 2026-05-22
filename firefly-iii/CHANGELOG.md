@@ -1,7 +1,7 @@
 ## Changes
 
-## 🐛 Bug Fixes
+## 🚀 Features
 
-- Fix issue with non amd64 builds @coostax (#141)
+- Update Firefly-iii version @coostax (#142)
 
-**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.36...v3.1.37
+**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.37...v3.1.38
