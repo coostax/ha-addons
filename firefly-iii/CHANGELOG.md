@@ -1,11 +1,7 @@
 ## Changes
 
-## 🚀 Features
+## 🐛 Bug Fixes
 
-- Update Firefly-iii version @coostax (#146)
+- update base image, force new build, update PHP @coostax (#147)
 
-## Other changes
-
-- Bump actions/checkout from 6 to 7 @[dependabot[bot]](https://github.com/apps/dependabot) (#143)
-
-**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.38...v3.1.39
+**Full Changelog**: https://github.com/coostax/addon-firefly-iii/compare/v3.1.39...v3.1.40
