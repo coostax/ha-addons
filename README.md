@@ -103,6 +103,6 @@ SOFTWARE.
 [wallabag-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [license-shield]: https://img.shields.io/github/license/coostax/coostax/ha-addons.svg
 [semver]: http://semver.org/spec/v2.0.0.html
